@@ -1,0 +1,6 @@
+2022ca61f
+
+X7XZzmK7rUq9wqSx
+
+mongodb+srv://2022ca61f:<db_password>@vehicle-proj.igtazjh.mongodb.net/?retryWrites=true&w=majority&appName=vehicle-proj
+
